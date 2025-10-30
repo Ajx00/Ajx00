@@ -36,8 +36,7 @@ I’m passionate about building efficient, reliable, and creative software — f
 <summary>💬 <b>Discord Bots</b></summary>
 
 - Built bots using **Discord.js** or **Discord.py**  
-- Many different bots for different usage cases  
-- Includes integrations with **Statuspage.io** and **CFX.re** for real-time server monitoring  
+- Build different bots for different usage cases  
 
 </details>
 
