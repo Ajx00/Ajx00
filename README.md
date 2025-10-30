@@ -17,10 +17,10 @@ I’m passionate about building efficient, reliable, and creative software — f
 
 ### 🛠️ Tech Stack
 **Languages:**  
-`Lua` · `JavaScript` · `Python` · `JSON` · `HTML` · `CSS`
+`Lua` · `JavaScript` · `TypeScript` · `Python` · `JSON` · `HTML` · `CSS`
 
 **Web / CMS Development:**  
-`WordPress` · `Shopify` · `Node.js` · `Express` · `EJS` · `REST APIs`
+`WordPress` · `Shopify` · `Node.js` · `Express` · `EJS` · `REST APIs`· `SQL`
 
 **Discord & Automation:**  
 `Discord.js` · `Statuspage.io API` · `CFX.re Integration`
