@@ -20,13 +20,27 @@ I’m passionate about building efficient, reliable, and creative software — f
 `Lua` · `JavaScript` · `TypeScript` · `Python` · `JSON` · `HTML` · `CSS`
 
 **Web / CMS Development:**  
-`WordPress` · `Shopify` · `Node.js` · `Express` · `EJS` · `REST APIs`· `SQL`
+`WordPress` · `Shopify` · `Node.js` · `Express` · `REST APIs`· `SQL`
 
 **Discord & Automation:**  
-`Discord.js` · `Statuspage.io API` · `CFX.re Integration`
+`Discord.js` · `Discord.py` · `Statuspage.io API`
 
-**Tools & Other:**  
-`Git` · `PyInstaller` · `VS Code` · `npm` · `cURL` · `JSON Parsing`
+<details>
+<summary><b>Tools & Other</b></summary>
+
+  **DevOps & Deployment:**  
+  `Git` · `GitHub Actions` · `Docker` · `Cron` · `SSH`
+  
+  **API & Automation:**  
+  `cURL` · `Postman` · `Webhooks` · `JSON Parsing`
+  
+  **Packaging & Node:**  
+  `PyInstaller` · `npm`
+  
+  **Editor & Env:**  
+  `VS Code` · `Linux` · `Windows` · `macOS`
+
+</details>
 
 ---
 
