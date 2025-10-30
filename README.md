@@ -42,9 +42,9 @@ I’m passionate about building efficient, reliable, and creative software — f
 </details>
 
 <details>
-<summary>🔐 <b>Password Manager</b></summary>
+<summary>Password Manager</summary>
 
-- Standalone executable built with **PyInstaller**, runs directly from a **USB stick**  
+- [**KeyForge – Secure Password Manager**](https://github.com/Ajx00/KeyForge) – Standalone executable built with **PyInstaller**, runs directly from a **USB stick**  
 - Local encryption for **secure offline storage**  
 - Lightweight, fast, and fully portable design  
 
