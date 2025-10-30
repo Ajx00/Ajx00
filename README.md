@@ -32,23 +32,40 @@ I’m passionate about building efficient, reliable, and creative software — f
 
 ### 📦 Featured Projects
 
-#### 💬 Discord Bots
-- Built bots using **Discord.js** or **Discord.py**
-- Many different bots for different ussage cases
+<details>
+<summary>💬 <b>Discord Bots</b></summary>
 
-#### 🔐 Password Manager (Python)
-- Standalone executable built with **PyInstaller** which runs on a USB Stick
-- Local encryption for secure offline storage  
-- Lightweight and portable design
+- Built bots using **Discord.js** or **Discord.py**  
+- Many different bots for different usage cases  
+- Includes integrations with **Statuspage.io** and **CFX.re** for real-time server monitoring  
 
-#### 🌐 Web Development
+</details>
+
+<details>
+<summary>🔐 <b>Password Manager</b></summary>
+
+- Standalone executable built with **PyInstaller**, runs directly from a **USB stick**  
+- Local encryption for **secure offline storage**  
+- Lightweight, fast, and fully portable design  
+
+</details>
+
+<details>
+<summary>🌐 <b>Web Development</b></summary>
+
 - Created **hardcoded websites** (HTML, CSS, JS)  
-- Built **WordPress** and **Shopify webshops** with custom integrations  
-- Focused on **responsive design** and **SEO-friendly architecture**
+- Built **WordPress** and **Shopify** webshops with custom integrations  
+- Focused on **responsive design**, **performance**, and **SEO optimization**  
 
-#### 🦎 Reptile Manager (WIP)
+</details>
+
+<details>
+<summary>🦎 <b>Reptile Manager (WIP)</b></summary>
+
 - **Node.js + Express** web application  
 - Helps reptile owners track feedings, health logs, and environment data  
 - Includes authentication, database storage, and dynamic dashboards  
+
+</details>
 
 ---
